@@ -1,0 +1,56 @@
+Graph 1 with 10 vertices and 10 edges
+BFS shortest path from vertex 3 to vertex 8: 3 7 8 
+BFS shortest path time: 0.001 seconds
+DFS shortest path from vertex 3 to vertex 8: 3 9 8 
+DFS shortest path time: 0.002 seconds 
+
+
+Graph 2 with 20 vertices and 30 edges
+BFS shortest path from vertex 0 to vertex 16: 0 3 12 16 
+BFS shortest path time: 0.011 seconds
+DFS shortest path from vertex 0 to vertex 16: 0 17 15 9 19 8 4 5 12 16 
+DFS shortest path time: 0.011 seconds 
+
+
+Graph 3 with 30 vertices and 50 edges
+BFS shortest path from vertex 1 to vertex 28: 1 12 8 23 28 
+BFS shortest path time: 0.045 seconds
+DFS shortest path from vertex 1 to vertex 28: 1 21 27 24 29 9 3 2 28 
+DFS shortest path time: 0.057 seconds 
+
+
+Graph 4 with 40 vertices and 70 edges
+BFS shortest path from vertex 15 to vertex 38: 15 25 38 
+BFS shortest path time: 0.085 seconds
+DFS shortest path from vertex 15 to vertex 38: 15 39 23 26 24 20 38 
+DFS shortest path time: 0.09 seconds 
+
+
+Graph 5 with 50 vertices and 90 edges
+BFS shortest path from vertex 28 to vertex 44: 28 21 34 44 
+BFS shortest path time: 0.216 seconds
+DFS shortest path from vertex 28 to vertex 44: 28 21 41 32 44 
+DFS shortest path time: 0.169 seconds 
+
+
+Graph 6 with 60 vertices and 110 edges
+BFS shortest path from vertex 19 to vertex 48: 19 29 2 16 48 
+BFS shortest path time: 0.3 seconds
+DFS shortest path from vertex 19 to vertex 48: 19 29 15 58 54 39 49 56 38 48 
+DFS shortest path time: 0.298 seconds 
+
+
+Graph 7 with 70 vertices and 130 edges
+BFS shortest path from vertex 8 to vertex 69: 8 62 69 
+BFS shortest path time: 0.439 seconds
+DFS shortest path from vertex 8 to vertex 69: 8 62 69 
+DFS shortest path time: 0.447 seconds 
+
+
+Graph 8 with 80 vertices and 150 edges
+BFS shortest path from vertex 65 to vertex 44: 65 13 16 44 
+BFS shortest path time: 0.691 seconds
+DFS shortest path from vertex 65 to vertex 44: 65 77 50 74 55 72 22 8 10 68 49 63 76 24 73 51 47 56 70 44 
+DFS shortest path time: 0.682 seconds 
+
+
